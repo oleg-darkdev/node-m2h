@@ -10,7 +10,7 @@
     "html",
     "m2h"
   ],
-  "author": "Oleg Medvedev",
+  "author": "Oleg_templ <linner_952@mail.ru> (http://www.bear-software.by)",
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.19"
