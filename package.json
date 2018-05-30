@@ -1,0 +1,19 @@
+{
+  "name": "m2h",
+  "version": "0.0.1",
+  "description": "Converts markdown to HTML.",
+  "main": "m2h.js",
+  "scripts": {},
+  "keywords": [
+    "markdown",
+    "convert",
+    "html",
+    "m2h"
+  ],
+  "author": "Oleg Medvedev",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.19"
+  },
+  "devDependencies": {}
+}
