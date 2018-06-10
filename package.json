@@ -1,6 +1,6 @@
 {
   "name": "node-m2h",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts markdown to HTML.",
   "main": "m2h.js",
   "scripts": {},
