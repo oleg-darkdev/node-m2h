@@ -10,7 +10,7 @@ This project is the fork of the project [Markdown-to-html](https://github.com/cw
 #### To use the command line utilities
 
 ```
-npm install m2h --save-dev
+npm install node-m2h --save-dev
 ```
 
 
