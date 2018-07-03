@@ -1,6 +1,6 @@
 {
   "name": "node-m2h",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Converts markdown to HTML.",
   "main": "m2h.js",
   "scripts": {},
@@ -11,7 +11,7 @@
     "m2h"
   ],
   "author": "Oleg_templ <linner_952@mail.ru> (http://www.bear-software.by)",
-  "license": "MIT",
+  "license": "CC BY-NC-SA 4.0",
   "dependencies": {
     "marked": "^0.3.19"
   },
